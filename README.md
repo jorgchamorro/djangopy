@@ -1,0 +1,2 @@
+# djangopy
+Tutorial from django
